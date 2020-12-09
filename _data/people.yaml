@@ -11,19 +11,14 @@
 - author:
   name: Rohit Kantipudi
   title: Undergraduate Student
-  img: 
   institute: Caltech
-  other_info:
-     Email Address: "rohitk@caltech.edu"
+  
 - author:
   name: George Wythes
   title: Undergraduate Student
-  img: melanogaster.jpg
-  institute: French Flag Research Institute
-  other_info:
-    Current Location: Apple Juice Plates, Inc
+  institute: Caltech
 
 - author:
-  name: Sally Monella
-  title: Research Technician
-  institute: French Flag Research Institute
+  name: Varun Shankar
+  title: CEO Daddy
+  institute: Caltech
