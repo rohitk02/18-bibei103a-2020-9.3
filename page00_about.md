@@ -3,7 +3,7 @@ layout: page
 title: About
 description: Information about the project, website, and links to the paper and SI
 img: microtubule_cartoon.jpg # Add image post (optional)
-caption: "A Serious Man (2010)"
+caption: "Microtubule"
 permalink: index.html
 sidebar: true
 ---
