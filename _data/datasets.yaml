@@ -10,7 +10,7 @@
   name: "Microtubule Catastrophe Times at Different Tubulin Concentrations"
   filetype: .csv
   
-  - dataset:
+- dataset:
   storage: local
   name: Table of measurements from an old-school study for comparison
   filetype: ".csv"
