@@ -2,8 +2,8 @@
 layout: page
 title: People
 description: About the authors
-img: people.png 
-caption: "Looking directly at the eclipse."
+img: cartoon_ppl.png 
+caption: "Research so fun!"
 permalink: people
 sidebar: true
 ---
