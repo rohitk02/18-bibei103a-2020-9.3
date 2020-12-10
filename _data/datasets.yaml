@@ -1,14 +1,12 @@
 - dataset:
   storage: remote 
   link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_time_to_catastrophe_dic_tidy.csv"
-  DOI: "10.1.1/journal.0000"
   name: "Time to Catastrophe of Labeled and Non-Labeled Microtubules"
   filetype: .csv 
   
 - dataset:
   storage: remote 
   link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv"
-  DOI: "10.1.1/journal.0000"
   name: "Microtubule Catastrophe Times at Different Tubulin Concentrations"
   filetype: .csv
   
