@@ -1,1 +1,4 @@
-Use this 
+numpy
+scipy
+pandas
+bokeh>=1.4.0
