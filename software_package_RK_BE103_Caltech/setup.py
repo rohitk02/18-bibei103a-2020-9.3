@@ -1,5 +1,3 @@
-install the package. We use the setuptools.setup() function to do the installation.
-
 import setuptools
 
 with open("README.md", "r") as f:
